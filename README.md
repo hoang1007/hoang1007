@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, this is Alex 🙆‍♂️</h1>
+<h1 align="center">Hi 👋, this is Hoang 🙆‍♂️</h1>
 <h3 align="center">I aim to be 🖥  ML Engineer and Industry Researcher 🖥 </h3>
 
 <br />
 
 <div align="center">
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang1007)](https://github.com/anuraghazra/github-readme-stats)
+[![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang1007)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
