@@ -1,8 +1,8 @@
 # <img src="assets/bar-chart.png" width="30px"/> Github Stats
   <br/>
   <div align="center">
-    <img alt="Hoang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hoang1007&show_icons=true&count_private=true&theme=algolia" height="200em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoang1007&langs_count=6&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hoang1007" height="200em"/>
+    <img alt="Hoang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hoang1007&show_icons=true&count_private=true&theme=algolia" height="150em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoang1007&langs_count=6&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hoang1007" height="150em"/>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </div>
@@ -21,7 +21,7 @@
 </details>
 
 --------
-## <img src="assets/software.png" width="30px"/> Software:
+## <img src="assets/computer.png" width="30px"/> Software:
 
 <details>
   <summary>Click to expand</summary>
