@@ -56,7 +56,7 @@
 
 </details>
 
-# <img src="assets/goal.png" width="30px"/> Challenges
+# <img src="assets/goal.png" width="30px"/> Competitions
 
 <details>
   <summary>Click to expand</summary>
