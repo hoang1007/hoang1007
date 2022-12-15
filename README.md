@@ -14,9 +14,20 @@
 <details>
   <summary> Click to expand </summary>
 
+📌 [**Feb 2022 - Mar 2022**]: Research about BERT family
+  * Research about BERT family and finetuning on downstream tasks:
+    * [Question Answering](https://colab.research.google.com/drive/1_FxW1zIzwP6BEqVjdM4a-EtOh7mub75n?usp=sharing)
+    * [Vietnamese Sentiment Analysis](https://colab.research.google.com/drive/11YDAMwxvxBVCmEELrI8K8B6EPeeVvOoT?usp=sharing)
+    * [English - Vietnamese Translation](https://colab.research.google.com/drive/140Yaa4WGpxcrjbvvnHm6qRLqIpL7T1-a?usp=sharing)
+    * [Vietnamese Named Entity Recognition](https://colab.research.google.com/drive/1Co7nBt0R9h8paspo6ENy3sWNou2jjw_7?usp=sharing)
+
 📌 [**Jul 2022 - Aug 2022**]: Faster R-CNN Research and Implementation
   * Code and research Faster R-CNN algorithm.
   * [Github Repo](https://github.com/hoang1007/faster-rcnn.git)
+
+📌 [**Dec 2022**]: Centernet Object as Points Research and Implementation
+  * Code and research Centernet Object as Points.
+  * [Github Repo](https://github.com/hoang1007/centernet.git)
 
 </details>
 
