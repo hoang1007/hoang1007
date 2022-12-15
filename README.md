@@ -10,7 +10,7 @@
 ----
 
 # <img src="assets/experiment.png" width="30px"> My Projects
-## <img src="assets/brain.png" width="30px"/> AI and Machine Learning:
+## <img src="assets/brain.png" width="30px"/> Deep Learning:
 <details>
   <summary> Click to expand </summary>
 
@@ -67,7 +67,7 @@
 
 </details>
 
-# <img src="assets/goal.png" width="30px"/> Challenges
+# <img src="assets/goal.png" width="30px"/> Competitions
 
 <details>
   <summary>Click to expand</summary>
