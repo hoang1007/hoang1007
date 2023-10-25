@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+### Hi there <a href="https://github.com/hoang1007/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 My name is Hoang. Here is a little about me 🥰
 - 🔭 &nbsp;I’m working on things related to deep learning 😉
 - 🤓 &nbsp;Currently, I'm interested in researching gerenative models such as Stable Diffusion. (My repo: [finetunning-diffusers](https://github.com/hoang1007/finetuning-diffusers.git))
