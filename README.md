@@ -26,7 +26,3 @@ My name is Hoang. Here is a little about me 🥰
 📊 &nbsp;**Some stats about my activities**
 
 ![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoang1007&show_icons=true&rank_icon=github&theme=transparent)
-
-🎼 &nbsp;**Listen with me**
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fua9npw92r41ztedbs9wyio8a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fua9npw92r41ztedbs9wyio8a&redirect=true)
