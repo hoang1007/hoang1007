@@ -2,7 +2,7 @@
 My name is Hoang. Here is a little about me 🥰
 - 🔭 &nbsp;I’m working on things related to deep learning 😉
 - 🤓 &nbsp;Currently, I'm interested in researching gerenative models such as Stable Diffusion. (My repo: [finetunning-diffusers](https://github.com/hoang1007/finetuning-diffusers.git))
-- ⚡ &nbsp;Fun fact: I ❤️ 🐱s, reading books and watching movies.
+- ⚡ &nbsp;Fun fact: I ❤️ 🐶s, reading books and watching movies.
 
 🔗 &nbsp;**Connect with me**
 <p align="center">
